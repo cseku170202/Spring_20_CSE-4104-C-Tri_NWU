@@ -34,4 +34,3 @@ North Western University, Khulna, Bangladesh
 
 
 
-Project supervisor: Md. Shymon Islam, Lecture, Department of CSE, North Western University, Khulna, Bangladesh
