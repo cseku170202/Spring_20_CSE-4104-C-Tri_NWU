@@ -9,6 +9,6 @@ name:ummehabibatuly2001@gmail.com
 Id-20201124010
 
 
-Computer Science and Engineering
+Depatment of Computer Science and Engineering
 
 North Western University,khulna
