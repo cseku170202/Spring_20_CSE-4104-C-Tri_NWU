@@ -10,4 +10,7 @@ Sanjida Hossain
 20201073010
 pria382000@gmail.com
 
+Department of CSE
+North Western University
+
 
