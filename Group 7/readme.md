@@ -1,11 +1,16 @@
-
-namee:snearaparvin.cse@gmail.com
+Name:Sneara PARVIN
+Email:snearaparvin.cse@gmail.com
 Id-20201074010
 
-name:parinitaroy27@gmail.com
+
+
+Name: Parinita Roy Papri
+Email:parinitaroy27@gmail.com
 Id-20201076010
 
-name:ummehabibatuly2001@gmail.com
+
+Name: Umme Habiba Tuly
+Email:ummehabibatuly2001@gmail.com
 Id-20201124010
 
 
